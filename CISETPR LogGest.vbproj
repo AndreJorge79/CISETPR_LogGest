@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4A210374-95EA-4352-8FAA-7ED6551EE2F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CISETPR_LogGest.My.MyApplication</StartupObject>
+    <RootNamespace>CISETPR_LogGest</RootNamespace>
+    <AssemblyName>CISETPR LogGest</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CISETPR LogGest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CISETPR LogGest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cralunos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cralunos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crvisitantes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crvisitantes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormAjuda\frmajudaportaCOM.Designer.vb">
+      <DependentUpon>frmajudaportaCOM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjuda\frmajudaportaCOM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjuda\frmajudaresolução.Designer.vb">
+      <DependentUpon>frmajudaresolução.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjuda\frmajudaresolução.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmsgdeautorizacao.Designer.vb">
+      <DependentUpon>frmmsgdeautorizacao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmsgdeautorizacao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmregistoalunonaoautorizado.Designer.vb">
+      <DependentUpon>frmregistoalunonaoautorizado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmregistoalunonaoautorizado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsenha3.Designer.vb">
+      <DependentUpon>frmsenha3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsenha3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjuda\frmajuda.Designer.vb">
+      <DependentUpon>frmajuda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjuda\frmajuda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmconsultas.Designer.vb">
+      <DependentUpon>frmconsultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmconsultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdefinicoes.Designer.vb">
+      <DependentUpon>frmdefinicoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdefinicoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmporteiro.Designer.vb">
+      <DependentUpon>frmporteiro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmporteiro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprincipal.Designer.vb">
+      <DependentUpon>frmprincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmregistarvisitante.Designer.vb">
+      <DependentUpon>frmregistarvisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmregistarvisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrelatorioalunos.Designer.vb">
+      <DependentUpon>frmrelatorioalunos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrelatorioalunos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrelatoriovisitante.Designer.vb">
+      <DependentUpon>frmrelatoriovisitante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrelatoriovisitante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmresolução.Designer.vb">
+      <DependentUpon>frmresolução.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmresolução.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsenha1.Designer.vb">
+      <DependentUpon>frmsenha1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsenha1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsenha2.Designer.vb">
+      <DependentUpon>frmsenha2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsenha2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsenha4.Designer.vb">
+      <DependentUpon>frmsenha4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsenha4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmvisitantes.Designer.vb">
+      <DependentUpon>frmvisitantes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmvisitantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Programa Administrador\frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Programa Administrador\frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programa Administrador\frmnovapassadmin.Designer.vb">
+      <DependentUpon>frmnovapassadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Programa Administrador\frmnovapassadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programa Administrador\frmnovapassporteiro.Designer.vb">
+      <DependentUpon>frmnovapassporteiro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Programa Administrador\frmnovapassporteiro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programa Administrador\frmprincipaladmin.Designer.vb">
+      <DependentUpon>frmprincipaladmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Programa Administrador\frmprincipaladmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cralunos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cralunos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crvisitantes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crvisitantes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjuda\frmajuda.resx">
+      <DependentUpon>frmajuda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjuda\frmajudaportaCOM.resx">
+      <DependentUpon>frmajudaportaCOM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjuda\frmajudaresolução.resx">
+      <DependentUpon>frmajudaresolução.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmsgdeautorizacao.resx">
+      <DependentUpon>frmmsgdeautorizacao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmconsultas.resx">
+      <DependentUpon>frmconsultas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdefinicoes.resx">
+      <DependentUpon>frmdefinicoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmporteiro.resx">
+      <DependentUpon>frmporteiro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmprincipal.resx">
+      <DependentUpon>frmprincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmregistarvisitante.resx">
+      <DependentUpon>frmregistarvisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmregistoalunonaoautorizado.resx">
+      <DependentUpon>frmregistoalunonaoautorizado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrelatorioalunos.resx">
+      <DependentUpon>frmrelatorioalunos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrelatoriovisitante.resx">
+      <DependentUpon>frmrelatoriovisitante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmresolução.resx">
+      <DependentUpon>frmresolução.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsenha1.resx">
+      <DependentUpon>frmsenha1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsenha2.resx">
+      <DependentUpon>frmsenha2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsenha3.resx">
+      <DependentUpon>frmsenha3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsenha4.resx">
+      <DependentUpon>frmsenha4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmvisitantes.resx">
+      <DependentUpon>frmvisitantes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programa Administrador\frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programa Administrador\frmnovapassadmin.resx">
+      <DependentUpon>frmnovapassadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programa Administrador\frmnovapassporteiro.resx">
+      <DependentUpon>frmnovapassporteiro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programa Administrador\frmprincipaladmin.resx">
+      <DependentUpon>frmprincipaladmin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ETPR - 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iniciar icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visitantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajuda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vermelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registo Visitantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\definições.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aviso.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

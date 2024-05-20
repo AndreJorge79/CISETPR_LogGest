@@ -1,0 +1,174 @@
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+C:\Users\Andre\AppData\Local\Temporary Projects\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+D:\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+D:\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+D:\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+D:\Partilhada\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+D:\Partilhada\PAP\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmresolução.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistarvisitante.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatorioalunos.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatoriovisitante.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbprojResolveAssemblyReference.cache
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmdefenicoes.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistarvisitante.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatorioalunos.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatoriovisitante.resources
+D:\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmresolução.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmdefinicoes.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipaladmin.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmlogin.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmdefinicoes.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistarvisitante.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatorioalunos.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatoriovisitante.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmresolução.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmlogin.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipaladmin.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha1.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha2.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha3.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha4.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapass.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaresolução.resources
+C:\Users\Andre\Desktop\PAP PROGRAMA\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaportaCOM.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaportaCOM.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaresolução.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha1.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha2.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha3.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha4.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmmsgdeautorizacao.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistoalunonaoautorizado.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassadmin.resources
+C:\Users\Andre\Desktop\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassporteiro.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbprojResolveAssemblyReference.cache
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaportaCOM.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaresolução.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmmsgdeautorizacao.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmdefinicoes.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistarvisitante.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistoalunonaoautorizado.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatorioalunos.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatoriovisitante.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmresolução.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha1.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha2.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha3.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha4.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmlogin.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassadmin.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassporteiro.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipaladmin.resources
+C:\Users\André Jorge\Desktop\PAP ANDRE\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.exe
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.pdb
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\bin\Debug\CISETPR LogGest.xml
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbprojResolveAssemblyReference.cache
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajuda.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaportaCOM.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmajudaresolução.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmmsgdeautorizacao.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmconsultas.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmdefinicoes.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmporteiro.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipal.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistarvisitante.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmregistoalunonaoautorizado.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatorioalunos.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmrelatoriovisitante.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmresolução.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha1.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha2.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha3.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmsenha4.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmvisitantes.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.Resources.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmlogin.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassadmin.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmnovapassporteiro.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR_LogGest.frmprincipaladmin.resources
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.vbproj.GenerateResource.Cache
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.exe
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.xml
+E:\Nova pasta\CISETPR LogGest\CISETPR LogGest\obj\x86\Debug\CISETPR LogGest.pdb
